@@ -1,2 +1,4 @@
 # Github_Lab
-Github lab by Lexicon
+Initial project documentation
+
+This project teaches the basics of Git branches.
