@@ -1,1 +1,87 @@
 List of planned features:
+
+List of features tried out:
+- [ ] Clone
+- [ ] Init
+- [ ] Pull
+    - [ ] --rebase
+    - [ ] --no-commit
+    - [ ] --no-ff
+    - [ ] --squash
+    - [ ] --ff-only
+- [ ] Add
+    - [ ] . = -all
+    - [ ] -p = patch
+    - [ ] -v = verbose
+    - [ ] -e = edit
+    - [ ] -i = interactive
+    - [ ] -<file> = file
+    - [ ] -<dir> = directory
+- [ ] Commit
+    - [ ] -a = all
+    - [ ] -m = message
+    - [ ] --amend
+- [ ] Push
+    - [ ] -fore-with-lease
+    - [ ] --prune
+    - [ ] -o = push option
+    - [ ] -u = upstream
+- [ ] Log
+    - [ ] --oneline
+    - [ ] --graph
+    - [ ] --decorate
+    - [ ] --all
+    - [ ] --abbrev-commit
+    - [ ] --pretty
+    - [ ] --stat
+    - [ ] --name-status
+    - [ ] --name-only
+    - [ ] --patch
+- [ ] Rebase
+    - [ ] -i = interactive
+- [ ] Mv
+- [ ] Rm
+- [ ] Restore
+- [ ] Bisect
+- [ ] Diff
+- [ ] Grep
+- [ ] Show
+- [ ] Status
+- [ ] Backfill
+- [ ] Branch
+- [ ] Merge
+- [ ] Fetch
+- [ ] Checkout
+    - [ ] -b = branch
+    - [ ] --orphan
+    - [ ] --merge
+    - [ ] --patch
+    - [ ] --conflict
+- [ ] Clean
+- [ ] Gc
+- [ ] Stash
+- [ ] Revert
+- [ ] Reset
+- [ ] Cherry-pick
+- [ ] Reflog
+- [ ] Tagging
+- [ ] Remote
+- [ ] Submodule
+- [ ] Sparse checkout
+- [ ] Worktree
+- [ ] Blame
+- [ ] Filter-branch
+
+
+
+- [ ] core-tutorial
+- [ ] credentials
+- [ ] diffcore
+- [ ] everyday
+- [ ] faq
+- [ ] glossary
+- [ ] namespaces
+- [ ] remote-helpers
+- [ ] tutorial
+- [ ] tutorial-2
+- [ ] workflows
